@@ -1,0 +1,13 @@
+{
+    "EKKO": [
+      { "EBELN": 1,  "WERKS": "DK01" },
+      { "EBELN": 2,  "WERKS": "DK01" }
+    ],
+    "EKPO": [
+        { "EBELN": 1, "EBELP": "00010", "WERKS": "DK01" , "NETPR": 10},
+        { "EBELN": 2, "EBELP": "00010", "WERKS": "DK01" , "NETPR": 20},
+        { "EBELN": 1, "EBELP": "00020", "WERKS": "DK01" , "NETPR": 14},
+        { "EBELN": 2, "EBELP": "00020", "WERKS": "DK01" , "NETPR": 12}
+    ],
+    "profile": { "name": "typicode" }
+  }
